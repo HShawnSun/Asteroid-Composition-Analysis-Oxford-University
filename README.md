@@ -1,4 +1,4 @@
-# Oxford-Summer-School-Assignment
+# Oxford-AI&ML-Program-Assignment
 
 ## The Assignment Tasks of Oxford Summer School with Asteroid composition analysis. 
 Student: He  Sun
