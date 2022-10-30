@@ -1,6 +1,6 @@
 # Oxford-Summer-School-Assignment
 
-## The Assignment Tasks of Oxford Summer School about Asteroid composition analysis. 
+## The Assignment Tasks of Oxford Summer School with Asteroid composition analysis. 
 Student: He  Sun
 
 ### Grade: A
