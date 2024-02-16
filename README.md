@@ -1,6 +1,6 @@
-# Oxford-AI&ML-Program-Project
+# Oxford-Asteroid-Composition-Analysis
 
-## The Project Tasks of Oxford Summer School with Asteroid composition analysis. 
+## The Project Tasks of Oxford Summer School on Asteroid composition analysis. 
 Student: He  Sun
 
 ### Grade: A
